@@ -15,11 +15,19 @@ I am learning video games programming by myself (but I also tried to create a [p
 
 ## Education
 
+*2017* First Certificate of English, grade B
+
+*2017* Baccalaureate with an average mark of 16.86 / 20
+
 ## Experience
 
 ## Additional activities
 
 ## Languages
+
+Spanish : basic
+
+English : good
 
 ## Key skills
 
