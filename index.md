@@ -47,7 +47,7 @@ I praticed over 4 different sports (as basket ball, French boxing, natation, gym
 
 Whenever I have a new project idea, I am doing it, just to see how I could have implement this or that feature / behaviour / design pattern ([my GitHub repositories](https://github.com/Loodoor/repositories) can confirm it).
 
-Since it has been almost two years that I am currently working on my Pokémon® like project ([first commit](https://github.com/Loodoor/UnamedPy/commit/e30c3cf39ff8b5ef4b98faa1bcadaae290b62be4) of the protype I started in Python), I think I define myself as a patient person.
+Since it has been almost two years that I am currently working on my Pokémon® like project ([first commit](https://github.com/Loodoor/UnamedPy/commit/e30c3cf39ff8b5ef4b98faa1bcadaae290b62be4) of the protype I started in Python), I think I can define myself as a patient person.
 
 ### Hobbies and interests
 
