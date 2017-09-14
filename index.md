@@ -1,11 +1,11 @@
 ## Alexandre Plateau
-**French student at Polytech, Orléans (PeiP 1)**
+**French student at Polytech**
 
 **E-Mail** lex[ dot ]plateau[ dot ]pro[ at ]gmail[ dot ]com
 
-**Website** https://kyatchioru.tk/
+**Website** [https://kyatchioru.tk](https://kyatchioru.tk/)
 
-**Location** France, Orléans (about 150km under Paris)
+**Location** Orléans, France
 
 ----
 
@@ -17,7 +17,7 @@
 
 *2017* First Certificate of English, grade B
 
-*2014* Brevet, with the mention "Très bien" (verry good, average mark superior or equal to 16 / 20)
+*2014* Brevet, with the mention "Très bien" (very good, average mark superior or equal to 16 / 20)
 
 ## Experience
 
