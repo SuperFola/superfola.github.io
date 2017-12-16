@@ -1,8 +1,14 @@
-title: Alexandre Plateau
-description: 
-google_analytics: 
+# website title
+title: Loodoor | Alexandre Plateau
+# short description for the website
+description: hosting my CV, my portfolio and my blog here
+# avatar to be used on the website
+avatar: 
+google_analytics: NOCODE
+# disable download button
 show_downloads: false
 theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
+  - jemoji
