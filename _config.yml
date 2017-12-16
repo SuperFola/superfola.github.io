@@ -2,7 +2,7 @@ title: Alexandre Plateau
 description: 
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
