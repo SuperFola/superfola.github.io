@@ -7,7 +7,7 @@ avatar:
 google_analytics: NOCODE
 # disable download button
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
