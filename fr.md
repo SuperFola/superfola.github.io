@@ -40,11 +40,5 @@ Anglais : niveau B2
 Je suis un autodidacte : j'ai appris la programmation de jeux videos seul, aussi comment concevoir et créer un [langage de programmation](https://github.com/SuperFola/Hitoban), 
 comment créer un [serveur pour jeu video](https://github.com/SuperFola/UnamedServer).
 
-Je me suis essayé à 4 sports différents (basket ball, boxe française, natation et gymnastique), et j'ai conversé avec des ordinateurs au travers d'une dizaine de langage de programmation 
-différents car je suis quelqu'un de très curieux. J'aime découvrir de nouvelles façons de penser et de résoudre un problème.
-
-A chaque fois que j'ai une nouvelle idée de projet, j'essaie de la suivre, juste pour voir comment je pourrais implémenter telle ou telle chose 
-([mes dépôts GitHub](https://github.com/SuperFola/repositories) peuvent le confirmer).
-
-Comme cela fait maintenant 2 ans et plus que je travaille sur un jeu video de type Pokémon®, and que j'ai passé 2 ans sur un remake de Terraria® (la première version était UrWorld, 
-puis Wilanda, et maintenant UrPlanet), je pense que je peux dire que je suis très investi dans mes projets.
+Je suis quelqu'un de très curieux et j'aime découvrir de nouvelles façons de penser et de résoudre un problème, de plus, à chaque fois que j'ai une nouvelle idée de projet, 
+j'essaie de la suivre, juste pour voir comment je pourrais implémenter telle ou telle chose ([mes dépôts GitHub](https://github.com/SuperFola/repositories) peuvent le confirmer).
