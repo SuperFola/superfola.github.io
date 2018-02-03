@@ -35,10 +35,10 @@ Anglais : niveau B2
 
 **Juillet 2015** Voyage scolaire en Australie pendant un mois. J'ai été logé dans une famille du pays et ai pu y découvrir la culture. 
 
-## Capacités clés
+## Atouts
 
 Je suis un autodidacte : j'ai appris la programmation de jeux videos seul, aussi comment concevoir et créer un [langage de programmation](https://github.com/SuperFola/Hitoban), 
 comment créer un [serveur pour jeu video](https://github.com/SuperFola/UnamedServer).
 
-Je suis quelqu'un de très curieux et j'aime découvrir de nouvelles façons de penser et de résoudre un problème, de plus, à chaque fois que j'ai une nouvelle idée de projet, 
+Je suis quelqu'un de très curieux et j'aime découvrir de nouvelles façons de penser et de résoudre un problème. De plus, à chaque fois que j'ai une nouvelle idée de projet, 
 j'essaie de la suivre, juste pour voir comment je pourrais implémenter telle ou telle chose ([mes dépôts GitHub](https://github.com/SuperFola/repositories) peuvent le confirmer).
