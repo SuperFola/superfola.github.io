@@ -17,6 +17,7 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <img src="{{ site.avatar }}" id="avatar" />
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
@@ -34,7 +35,6 @@
         {% if site.github.is_user_page %}
           <ul>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-            <li><img src="{{ site.avatar }}" /></li>
           </ul>
         {% endif %}
       </header>
