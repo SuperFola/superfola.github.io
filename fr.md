@@ -1,6 +1,8 @@
 ﻿## Alexandre Plateau
 **Étudiant à Polytech**
 
+**Né le** 11 / 08 / 99
+
 **E-Mail** lex.plateau.pro@gmail.com
 
 <!-- **Website** [https://kyatchioru.tk](https://kyatchioru.tk/) -->
@@ -10,6 +12,21 @@
 **[Portfolio](https://superfola.github.io/Portfolio/)** 
 
 ----
+
+Jeune programmeur autodidacte qui aime essayer à peu près tout ce à quoi il peut penser, de la création de jeux vidéos à la réalisation de robots avec une carte Arduino, en passant par le développement d'un langage de programmation (pour comprendre comment 
+cela fonctionne sous le capot). J'aime programmer surtout en Python et en C++ mais je m'adapte très vite à n'importe quel environnement.
+
+----
+
+## Langages de programmation
+
+* Python 3 (doué)
+
+* C++ (moyen)
+
+* HTML, CSS, JS, PHP (moyen ; Je peux conduire un projet utilisant ces langages avec l'aide de stackoverflow.com)
+
+* Java (encore en apprentissage)
 
 ## Diplômes
 
