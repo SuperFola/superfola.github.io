@@ -1,38 +1,40 @@
-﻿## Alexandre Plateau
-**French student at Polytech**
+Alexandre Plateau
+=================
 
-**Born on** 11 / 08 / 99
-
-**E-Mail** lex.plateau.pro@gmail.com
-
-<!-- **Website** [https://kyatchioru.tk](https://kyatchioru.tk/) -->
-
-**Location** Orléans, France
-
-**[Portfolio](https://superfola.github.io/Portfolio/)**
-
-[Version française raccourcie](fr.md)
+| Key | Value |
+| :--- | ---: |
+| Nationality | French |
+| Date of birth | 11 August 1999 |
+| e-mail | <lex.plateau.pro@gmail.com> |
+| LinkedIn | [Alexandre Plateau](https://www.linkedin.com/in/alexandre-plateau-53a014151) |
+| Portfolio | [/Portfolio](https://superfola.github.io/Portfolio/) |
 
 ----
 
-Young autodidact programmer who likes trying pretty much everything he can thinks about, from creating video games to making robots with an Arduino without forgetting developing his own programming language (in order to understand how it works under the hood).
-I like programming especially in Python and C++ but I am a fast learner and can adapt easily to any environment with enough time.
+I am a young autodidact programmer who could be qualified as a Jack of all trades : I went from creating video games to making robots with an Arduino, without forgetting developing my own programming language (in order to understand how it works under the hood).
+My favorite languages are Python and C++, but I am a fast learner and can adapt easily to any environment with enough time.
 
 ----
 
-## Programming skills
+## Computer skills
 
-* Python 3 (experienced)
+### Languages
 
-* C++ (average)
+*Organized from the most mastered to the least one*
 
-* HTML, CSS, JS, PHP (average ; I can lead a project using those languages with the help of stackoverflow.com)
+Python, C++, JavaScript, PHP, C, Bash, Batch, NASM assembly, HTML5, CSS3, XSLT, Java, Ruby
 
-* Java (still learning)
+### Platforms
+
+Linux, Windows, Arduino
+
+### Tools
+
+PyCharm, VisualStudio 2017, Atom IDE, CMake, Git, Tiled, Libre Office, Pygame, SFML, SDL, JQuery, Bootstrap, D3.js, ANTLR4, Elastic search
 
 ## Education
 
-**2017-today** Student in [Polytech Orléans](https://www.univ-orleans.fr/polytech/), PeiP (integrated preparatory class for this engineering school)
+**2017-today** Student in PeiP (integrated preparatory class for this engineering school) at [Polytech](http://www.polytech-reseau.org/en/home/)
 
 **2017** Baccalaureate, with honours (16.86 / 20)
 
@@ -52,9 +54,9 @@ I like programming especially in Python and C++ but I am a fast learner and can 
 
 ### Traineeships
 
-**July 2018** Traineeship at the [IRHT](http://irht.cnrs.fr/) (department of the French CNRS). My job was to design websites to visualize data in different forms (you can see it [there](https://github.com/SuperFola/bibale-nodes), [there](https://github.com/SuperFola/bibale-tree) and [there](https://github.com/SuperFola/bibale-facettes)). I also worked on Python scripts to import/export data from/to the database used at the IRHT. Another project I was given was a website to visualize different versions of an ancient text (encoded in XML TEI) easily.
+**July 2018** Traineeship at the [IRHT](http://irht.cnrs.fr/) (department of the French CNRS). My job was to design websites to visualize data in different ways (you can see it [here](https://github.com/SuperFola/bibale-nodes), [there](https://github.com/SuperFola/bibale-tree) and [here](https://github.com/SuperFola/bibale-facettes)). I also worked on Python scripts to import/export data from/to the database used (Elastic search) at the IRHT. Another project I was given was a website to visualize different versions of an ancient text (encoded in XML TEI) easily.
 
-**July 2016** Worked in a pharmacy as a pharmacy technician, for a month. My job was to prepare medicines for a machine to pack them into kit.
+**July 2016** Worked in a pharmacy as a technician, for a month. My job was to prepare medicines for a machine to pack them into kit.
 
 **2015** Traineeship in Polytech Orléans for a week, where I helped an electronic technician to prepare electronic circuits for practicals.
 
@@ -62,15 +64,15 @@ I like programming especially in Python and C++ but I am a fast learner and can 
 
 English : B2 level
 
-**July 2015** School trip to Australia. I was housed in an Australian family.
+**July 2015** School trip for a month to Australia. I was housed by a local family, who helped me discovering the culture of the country.
 
 Spanish : basic, B1 level
 
-**2013** School trip for a week in Barcelona, where I could practice my Spanish.
+**2013** School trip for a week in Barcelona, where I have been able to practice my Spanish.
 
 ## Key skills
 
-I am an autodidact : I learnt video game programming by myself, also how to design and create a [programming language](https://github.com/SuperFola/Hitoban), how to create a [video game server](https://github.com/SuperFola/UnamedServer).
+I am an autodidact : I learnt video game programming by myself, as well as the fundamentals of a programming language, running on a virtual machine, by making [one](https://github.com/SuperFola/Kafe). I also discovered the base of an operating system by making [my own](https://github.com/SuperFola/project-E).
 
 I practised over 4 different sports (basket ball, French boxing, swimming, gymnastic), and learned over 10 different programming languages because I am a very curious person. I like learning new ways of thinking and solving problems.
 
