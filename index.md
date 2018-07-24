@@ -8,6 +8,7 @@ Alexandre Plateau
 | e-mail | <lex.plateau.pro@gmail.com> |
 | LinkedIn | [Alexandre Plateau](https://www.linkedin.com/in/alexandre-plateau-53a014151) |
 | Portfolio | [/Portfolio](https://superfola.github.io/Portfolio/) |
+| Devblog | [gistlog.co](https://gistlog.co/SuperFola) |
 
 ----
 
