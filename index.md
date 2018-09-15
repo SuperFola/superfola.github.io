@@ -34,7 +34,9 @@ Linux, Windows, Arduino
 
 PyCharm, VisualStudio 2017, Atom IDE, CMake, Git, Tiled, Libre Office, Pygame, SFML, SDL, OpenGL, JQuery, Bootstrap, D3.js, ANTLR4, Elastic search
 
-## Education
+## Education and diploma
+
+**2018** Laureate of the [Bourse Coddity](http://bourse.coddity.com)
 
 **2017-today** Student in PeiP (integrated preparatory class) at [Polytech](http://www.polytech-reseau.org/en/home/)
 
