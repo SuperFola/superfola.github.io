@@ -20,9 +20,9 @@ My favorite languages are Python and C++, but I am a fast learner and can adapt 
 
 ## Computer skills
 
-### Languages
-
 *Organized from the most mastered to the least one*
+
+### Languages
 
 Python, C++, JavaScript, PHP, C, NASM assembly, Bash, Batch, HTML5, CSS3, XSLT, Java, Ruby
 
@@ -48,7 +48,9 @@ PyCharm, VisualStudio 2017, Atom IDE, CMake, Git, Tiled, Libre Office, Pygame, S
 
 ### Personal projects
 
-**August 2018** I worked on a 3D rendering library on top of OpenGL, which I used to create my own Minecraft clone. I learnt the basics of 3D rendering and the inherent problems such as chunk mesh optimization.
+**September 2018-today** I am working on a 3D game using OpenGL, created in a Minecraft style. I learnt (and I am still learning) a lot about OpenGL and rendering technics, and voxels' world optimizations.
+
+**August 2018** I worked on a 3D rendering library on top of OpenGL, which I am using to create my own Minecraft clone. I learnt the basics of 3D rendering and the inherent problems such as chunk mesh optimization.
 
 **May 2018** I created a small 16-bits operating system from scratch, to learn how it works under the hood.
 
@@ -64,7 +66,7 @@ PyCharm, VisualStudio 2017, Atom IDE, CMake, Git, Tiled, Libre Office, Pygame, S
 
 **July 2016** Worked in a pharmacy as a technician, for a month. My job was to prepare medicines for a machine to pack them into kit.
 
-**2015** Traineeship in Polytech Orléans for a week, where I helped an electronic technician to prepare electronic circuits for practicals.
+**June 2015** Traineeship in Polytech Orléans for a week, where I helped an electronic technician to prepare electronic circuits for practicals.
 
 ## Languages
 
