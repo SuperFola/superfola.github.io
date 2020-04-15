@@ -1,9 +1,10 @@
 # website title
-title: SuperFola | Alexandre Plateau
+title: Alexandre Plateau
 # short description for the website
-description: Hi ! I'm an autodidact game developer, and I mainly use Python and C++ to craft games as well as all sort of stuff.
+description: Autodidact C++/Python developper
 # avatar to be used on the website
-avatar: https://avatars2.githubusercontent.com/u/10694085?s=460&v=4
+logo: https://avatars2.githubusercontent.com/u/10694085?s=460&v=4
+
 google_analytics: NOCODE
 # disable download button
 show_downloads: false
