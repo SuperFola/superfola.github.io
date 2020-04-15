@@ -7,7 +7,7 @@ avatar: https://avatars2.githubusercontent.com/u/10694085?s=460&v=4
 google_analytics: NOCODE
 # disable download button
 show_downloads: false
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
