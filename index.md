@@ -14,6 +14,7 @@ Alexandre Plateau
 | Portfolio     | /[Portfolio](/portfolio.html)                                                |
 | DevBlog       | [dev.to/superfola](https://dev.to/superfola)                                 |
 | Codetrace     | [codetrace.com/users/SuperFola](https://codetrace.com/users/SuperFola)       |
+| Utip          | [utip.io/superfola](https://utip.io/superfola)                               |
 
 ## Summary
 
