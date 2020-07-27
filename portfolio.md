@@ -53,7 +53,7 @@ Closures with explicit capture:
 
 A story driven, audio-visual exploration game taking place in a voxels' composed world. In each game, you discover a brand new world, procedurally generated, in which notes from a previous explorer are hidden, telling his story.
 
-*Gameplay*
+**Gameplay**
 
 The player follows the story of Marcus through his notes scattered all over the world. Marcus was a bored gardener, and when he saw an ad about a space travel to establish a society on another planet, he jumped at the opportunity and boarded right away.
 
@@ -65,7 +65,7 @@ The world, made of voxels, is composed of forests, cliffs, rivers, and flowers (
 
 ## [Zavtrak](https://gitlab.com/SuperFola/Zavtrak)
 
-A library to simplify the use of OpenGL, used by The Fate of Marcus.
+A library to simplify the use of OpenGL, trying to act as a (nearly) zero cost abstraction library, used by The Fate of Marcus.
 
 [![triangle](images/zk_hello_triangle.png){:height="40%" width="40%" display="inline-block"}](images/zk_hello_triangle.png)
 [![3D](images/zk_hello_3d.png){:height="40%" width="40%" display="inline-block"}](images/zk_hello_3d.png)
@@ -74,7 +74,9 @@ A library to simplify the use of OpenGL, used by The Fate of Marcus.
 
 ## [Project-E](https://github.com/SuperFola/project-E)
 
-A small proof of concept of a 16 bits real mode "operating system", made using NASM assembly.
+Project E is a small Operating System (if we can say so) composed of a basic bootloader and of a simple kernel, all written in NASM assembly, capable of execute shell commands.
+
+It was developped and tested under Linux Mint 19, on a x86_64 machine.
 
 [![booting](images/pe_boot.png){:height="40%" width="40%" display="inline-block"}](images/pe_boot.png)
 [![commands](images/pe_commands.png){:height="40%" width="40%" display="inline-block"}](images/pe_commands.png)
