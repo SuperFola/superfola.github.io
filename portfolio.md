@@ -36,9 +36,9 @@ Closures with explicit capture:
 
 A minecraft clone about exploration, where the player is trying to learn more about Marcus, someone who seems to be lost in space.
 
-![biom](images/tfom_biom.png)
-![in game](images/tfom_ig.png)
-![tutorial](images/tfom_tuto.png)
+![biom](images/tfom_biom.png){:height="50%" width="50%"}
+![in game](images/tfom_ig.png){:height="50%" width="50%"}
+![tutorial](images/tfom_tuto.png){:height="50%" width="50%"}
 
 ## [Zavtrak](https://gitlab.com/SuperFola/Zavtrak)
 
