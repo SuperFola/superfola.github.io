@@ -1,5 +1,6 @@
 ---
 permalink: /index.html
+title: Alexandre (SuperFola) Plateau CV
 ---
 
 Alexandre Plateau
