@@ -36,23 +36,23 @@ Closures with explicit capture:
 
 A minecraft clone about exploration, where the player is trying to learn more about Marcus, someone who seems to be lost in space.
 
-![biom](images/tfom_biom.png){:height="50%" width="50%"}
-![in game](images/tfom_ig.png){:height="50%" width="50%"}
-![tutorial](images/tfom_tuto.png){:height="50%" width="50%"}
+[![biom](images/tfom_biom.png){:height="40%" width="40%" display="inline-block"}](images/tfom_biom.png)
+[![in game](images/tfom_ig.png){:height="40%" width="40%" display="inline-block"}](images/tfom_ig.png)
+[![tutorial](images/tfom_tuto.png){:height="40%" width="40%" display="inline-block"}](images/tfom_tuto.png)
 
 ## [Zavtrak](https://gitlab.com/SuperFola/Zavtrak)
 
 A library to simplify the use of OpenGL, used by The Fate of Marcus.
 
-![triangle](images/zk_hello_triangle.png)
-![3D](images/zk_hello_3d.png)
-![cubes](images/zk_hello_cubes.png)
-![light](images/zk_hello_light.png)
+[![triangle](images/zk_hello_triangle.png){:height="40%" width="40%" display="inline-block"}](images/zk_hello_triangle.png)
+[![3D](images/zk_hello_3d.png){:height="40%" width="40%" display="inline-block"}](images/zk_hello_3d.png)
+[![cubes](images/zk_hello_cubes.png){:height="40%" width="40%" display="inline-block"}](images/zk_hello_cubes.png)
+[![light](images/zk_hello_light.png){:height="40%" width="40%" display="inline-block"}](images/zk_hello_light.png)
 
 ## [Project-E](https://github.com/SuperFola/project-E)
 
 A small proof of concept of a 16 bits real mode "operating system", made using NASM assembly.
 
-![booting](images/pe_boot.png)
-![commands](images/pe_commands.png)
-![loading test application](images/pe_app.png)
+[![booting](images/pe_boot.png){:height="40%" width="40%" display="inline-block"}](images/pe_boot.png)
+[![commands](images/pe_commands.png){:height="40%" width="40%" display="inline-block"}](images/pe_commands.png)
+[![loading test application](images/pe_app.png){:height="40%" width="40%" display="inline-block"}](images/pe_app.png)
