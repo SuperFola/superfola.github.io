@@ -74,7 +74,7 @@ A library to simplify the use of OpenGL, trying to act as a (nearly) zero cost a
 
 ## [Project-E](https://github.com/SuperFola/project-E)
 
-Project E is a small Operating System (if we can say so) composed of a basic bootloader and of a simple kernel, all written in NASM assembly, capable of execute shell commands.
+Project E is a small Operating System (if we can say so) composed of a basic bootloader and of a simple kernel, all written in NASM assembly, capable of execute shell commands. It embeds a password lock when booting, an heterogeneous programming language using a tape (sort of evolved brainfuck), few commands like `echo`, `clear`, `color`, `version` and `help`.
 
 It was developped and tested under Linux Mint 19, on a x86_64 machine.
 
