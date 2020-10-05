@@ -23,12 +23,12 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 21px;
     margin-top: 4vh;
 }
 
 h2 {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 ul {
@@ -40,7 +40,11 @@ li {
 }
 
 strong {
-    font-weight: 700;
+    font-weight: 600;
+}
+
+i {
+    font-style: italic;
 }
 
 /*************************/
@@ -64,6 +68,7 @@ strong {
 .right {
     margin-left: auto;
     text-align: right;
+    min-width: 10em;
 }
 
 /*************************/
