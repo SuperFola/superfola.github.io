@@ -19,21 +19,41 @@
 
             <div id="navbarBasicExample" class="navbar-menu">
                 <div class="navbar-start">
-                    <a class="navbar-item" href="index.html">Home</a>
-                    <a class="navbar-item" href="portfolio.html">Portfolio</a>
+                    <a class="navbar-item" href="index.html">
+                        <span class="icon">
+                            <i class="fas fa-home"></i>
+                        </span>
+                        &nbsp;Home
+                    </a>
 
                     <div class="navbar-item has-dropdown is-hoverable">
-                        <a class="navbar-link">More</a>
+                        <a class="navbar-link">
+                            <span class="icon">
+                                <i class="fas fa-plus"></i>
+                            </span>
+                            &nbsp;More
+                        </a>
 
                         <div class="navbar-dropdown">
-                            <a class="navbar-item" href="CV_US_format.html" target="_blank">Curriculum Vitae</a>
-                            <a class="navbar-item" href="mailto:lexplt.dev@gmail.com">Contact</a>
+                            <a class="navbar-item" href="CV_US_format.html" target="_blank">
+                                <span class="icon">
+                                    <i class="fas fa-file-alt"></i>
+                                </span>
+                                &nbsp;Curriculum Vitae
+                            </a>
+                            <a class="navbar-item" href="mailto:lexplt.dev@gmail.com">
+                                <span class="icon">
+                                    <i class="fas fa-envelope"></i>
+                                </span>
+                                &nbsp;Contact
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
         </nav>
         <!-- END OF NAVIGATION -->
+        <!-- hero-->
         <section class="hero is-medium is-primary is-bold">
             <div class="hero-body">
                 <div class="columns">
@@ -49,17 +69,17 @@
                     </div>
                     <div class="column">
                         <div class="buttons">
-                            <a class="button is-dark is-medium" href="https://github.com/SuperFola">
-                                <span class="icon">
-                                    <i class="fab fa-github"></i>
-                                </span>
-                                <strong>GitHub</strong>
-                            </a>
                             <a class="button is-info is-medium" href="https://twitter.com/lexplt">
                                 <span class="icon">
                                     <i class="fab fa-twitter"></i>
                                 </span>
                                 <strong>Twitter</strong>
+                            </a>
+                            <a class="button is-dark is-medium" href="https://github.com/SuperFola">
+                                <span class="icon">
+                                    <i class="fab fa-github"></i>
+                                </span>
+                                <strong>GitHub</strong>
                             </a>
                             <a class="button is-dark is-medium" href="https://dev.to/superfola">
                                 <span class="icon">
@@ -78,15 +98,255 @@
                 </div>
             </div>
         </section>
+        <!-- end of hero-->
+        <!-- my projects -->
         <section class="section">
             <div class="container">
                 <h1 class="title">
                     My projects
                 </h1>
-                <p class="subtitle">
-                    My first website with <strong>Bulma</strong>!
-                </p>
+                <div class="tile is-ancestor">
+                    <div class="tile is-vertical">
+                        <div class="tile is-parent">
+                            <!-- ArkScript -->
+                            <article class="tile is-child notification is-success">
+                                <div class="content">
+                                    <p class="title">
+                                        <a href="https://arkscript-lang.github.io">ArkScript</a>
+                                        <img src="https://img.shields.io/badge/-C%2B%2B-pink">
+                                        <a href="https://github.com/ArkScript-Lang/Ark/stargazers">
+                                            <img alt="GitHub stars" src="https://img.shields.io/github/stars/ArkScript-Lang/Ark">
+                                        </a>
+                                    </p>
+                                    <p class="subtitle">A small, fast, functional and scripting language for C++ projects</p>
+                                    <div class="content">
+                                        <p>
+                                            A language running on a virtual machine, compiled to home made
+                                            bytecode to run everywhere.
+                                        </p>
+                                        <p>
+                                            It's also a functional language, inspired by Lisp and Python,
+                                            with a very small set of keywords to promote functionalities
+                                            and expressiveness. You don't need 50 keywords and another 20
+                                            for very specific use cases!
+                                        </p>
+                                        <p>
+                                            It's easy to compile: <code>ark -c script.ark</code> and easy
+                                            to run: <code>ark script.arkc</code> (<code>ark script.ark</code>
+                                            also works!)
+                                        </p>
+                                        <ul>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-github"></i>
+                                                </span>
+                                                <a href="https://github.com/ArkScript-lang/Ark">GitHub</a>
+                                            </li>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fas fa-globe"></i>
+                                                </span>
+                                                <a href="https://arkscript-lang.github.io">Website</a>
+                                            </li>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-discord"></i>
+                                                </span>
+                                                <a href="https://discord.gg/YT5yDwn">Discord</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="tile is-parent">
+                            <!-- Elranet -->
+                            <article class="tile is-child notification is-danger">
+                                <p class="title">
+                                    <a href="https://github.com/SuperFola/elranet">Elranet</a>
+                                    <img src="https://img.shields.io/badge/-JS-yellow">
+                                    <a href="https://github.com/SuperFola/elranet/stargazers">
+                                        <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuperFola/elranet">
+                                    </a>
+                                </p>
+                                <p class="subtitle">A Docker webpanel</p>
+                                <p>
+                                    Base on <a href="https://github.com/apocas/dockerode">dockerode</a> to
+                                    talk to the Docker daemon, and <a href="https://www.npmjs.com/package/express">express</a> to create the backend.
+                                </p>
+                                <div class="content">
+                                    <ul>
+                                        <li>
+                                            <span class="icon">
+                                                <i class="fab fa-github"></i>
+                                            </span>
+                                            <a href="https://github.com/SuperFola/elranet">GitHub</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="tile is-vertical is-8">
+                        <div class="tile">
+                            <div class="tile is-parent is-vertical">
+                                <!-- OnlyCheese -->
+                                <article class="tile is-child notification is-primary">
+                                    <p class="title">
+                                        <a href="https://github.com/SuperFola/OnlyCheese">OnlyCheese</a>
+                                        <img src="https://img.shields.io/badge/-VueJS-darkgreen">
+                                        <img src="https://img.shields.io/badge/-Firebase-orange">
+                                        <a href="https://github.com/SuperFola/OnlyCheese/stargazers">
+                                            <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuperFola/OnlyCheese">
+                                        </a>
+                                    </p>
+                                    <p class="subtitle">
+                                        An Instagram x OnlyFans clone, based on cheese, made with Firebase and VueJS
+                                    </p>
+                                    <div class="content">
+                                        <ul>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-github"></i>
+                                                </span>
+                                                <a href="https://github.com/SuperFola/OnlyCheese">GitHub</a>
+                                            </li>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fas fa-globe"></i>
+                                                </span>
+                                                <a href="https://only-cheese.web.app">Website</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </article>
+                                <!-- Project E -->
+                                <article class="tile is-child notification is-warning">
+                                    <p class="title">
+                                        <a href="https://github.com/SuperFola/project-E">Project-E</a>
+                                        <img src="https://img.shields.io/badge/-Assembler-brown">
+                                        <img src="https://img.shields.io/badge/-Shell-lightgreen">
+                                        <a href="https://github.com/SuperFola/project-e/stargazers">
+                                            <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuperFola/project-e">
+                                        </a>
+                                    </p>
+                                    <p class="subtitle">
+                                        A minimalistic Operating System relying on a basic
+                                        bootloader and a small kernel capable of loading a
+                                        given application.
+                                    </p>
+                                    <div class="content">
+                                        <ul>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-github"></i>
+                                                </span>
+                                                <a href="https://github.com/SuperFola/project-E">GitHub</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="tile is-parent">
+                                <!-- The Fate of Marcus -->
+                                <article class="tile is-child notification is-info">
+                                    <p class="title">
+                                        <a href="https://superfola.itch.io/the-fate-of-marcus">The Fate of Marcus</a>
+                                        <img src="https://img.shields.io/badge/-C%2B%2B-pink">
+                                    </p>
+                                    <p class="subtitle">
+                                        An exploration game, made with cubes.
+                                    </p>
+                                    <figure class="image is-4by3">
+                                        <img src="https://img.itch.zone/aW1nLzE1NjkwMzQucG5n/original/1xReRq.png">
+                                    </figure>
+                                    <div class="content">
+                                        <ul>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-itch-io"></i>
+                                                </span>
+                                                <a href="https://superfola.itch.io/the-fate-of-marcus">itch.io</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="tile">
+                            <div class="tile is-parent">
+                                <!-- Zavtrak -->
+                                <article class="tile is-child notification is-primary">
+                                    <p class="title">
+                                        <a href="https://gitlab.com/SuperFola/Zavtrak">Zavtrak</a>
+                                        <img src="https://img.shields.io/badge/-C%2B%2B-pink">
+                                    </p>
+                                    <p class="subtitle">
+                                        A nearly zero cost abstraction for OpenGL rendering
+                                    </p>
+                                    <p>
+                                        It handles window creation, events handling through GLFW,
+                                        camera, loading textures and shaders, and provides abstractions
+                                        for using VAO, VBO, EBO.
+                                    </p>
+                                    <div class="content">
+                                        <ul>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-gitlab"></i>
+                                                </span>
+                                                <a href="https://gitlab.com/SuperFola/Zavtrak">GitLab</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="tile is-parent">
+                                <!-- Unamed -->
+                                <article class="tile is-child notification is-success">
+                                    <p class="title">
+                                        <a href="https://github.com/SuperFola/Unamed-Endive">Unamed</a>
+                                        <img src="https://img.shields.io/badge/-C%2B%2B-pink">
+                                        <a href="https://github.com/SuperFola/unamed-endive/stargazers">
+                                            <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuperFola/unamed-endive">
+                                        </a>
+                                    </p>
+                                    <p class="subtitle">
+                                        A top down Pokémon like game
+                                    </p>
+                                    <p>
+                                        A Pokémon like game engine bundled with the game, written in C++,
+                                        with Python 3 scripting. Was planned to include dungeons, monster
+                                        tamming, and side-quests.
+                                    </p>
+                                    <p>
+                                        <i>Will be rewritten in the future.</i>
+                                    </p>
+                                    <div class="content">
+                                        <ul>
+                                            <li>
+                                                <span class="icon">
+                                                    <i class="fab fa-github"></i>
+                                                </span>
+                                                <a href="https://github.com/SuperFola/Unamed-Endive">GitHub</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
+        <!-- end of my projects-->
+        <footer class="footer">
+            <div class="content has-text-centered">
+                <p>
+                    Built with <strong>Bulma</strong> by Alexandre Plateau.
+                </p>
+                <p>All rights reserved.</p>
+            </div>
+        </footer>
     </body>
 </html>
